@@ -1,0 +1,106 @@
+/*
+ STYLE.CSS:
+  this is my style sheet 
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@200&display=swap');
+
+/* --- Structure --- */
+
+body{
+  background-image:url(images/blackboard.jpg);
+  margin: 0;
+}
+
+header {
+  height: 130px;
+  background-color: red;
+  background-image:url(images/fusionq.jpg);
+}
+
+footer {
+  height: 80px;
+  background-color: red;
+  background-image:url(images/fusionq.jpg);
+}
+
+.wrapper {
+  width: 600px;
+  margin: auto;
+}
+
+img {                        /* ----- this centers everything ----- */
+  width: 100%;
+}
+
+
+header h1 {
+  font-family: 'Inconsolata', monospace;
+	color: white;
+	margin: 0px;
+	padding-top: 24px;
+	font-size: 55px;
+	text-align:center;
+}
+
+header h2 {
+	font-family: 'Inconsolata', monospace,;
+	color: white;
+	margin: 0px;
+	padding-top: 16px;
+	font-size: 22px;
+	text-align: center;
+}
+
+
+
+h1, h2 {
+  color: white;
+  font-family: 'Inconsolata', monospace;
+}
+
+hi {font-size: 40 px}
+h2 {font-size: 30 px}
+
+p, li {
+  font-family: 'Inconsolata', monospace;
+  color: white;
+	font-size: 18px;
+  font-weight: 400;
+    line-height: 26px;
+}
+
+a {
+  font-weight: 600
+}
+/* ----- spacers -----*/
+.gap-sm {
+    height: 50px;
+    width: auto;
+}
+.gap-md {
+    height: 100px;
+    width: auto;
+}
+.gap-lg {
+    height: 200px;
+    width: auto;
+}
+
+.gap-footer {
+    height: 10px;
+    width: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
