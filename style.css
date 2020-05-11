@@ -8,19 +8,19 @@
 /* --- Structure --- */
 
 body{
-  background-image:url(images/blackboard.jpg);
+  background-image:url(images/background.jpg);
   margin: 0;
 }
 
 header {
   height: 130px;
-  background-color: red;
+  background-color: black;
   background-image:url(images/fusionq.jpg);
 }
 
 footer {
   height: 80px;
-  background-color: red;
+  background-color: black;
   background-image:url(images/fusionq.jpg);
 }
 
@@ -36,7 +36,7 @@ img {                        /* ----- this centers everything ----- */
 
 header h1 {
   font-family: 'Inconsolata', monospace;
-	color: white;
+	color: black;
 	margin: 0px;
 	padding-top: 24px;
 	font-size: 55px;
@@ -45,7 +45,7 @@ header h1 {
 
 header h2 {
 	font-family: 'Inconsolata', monospace,;
-	color: white;
+	color: black;
 	margin: 0px;
 	padding-top: 16px;
 	font-size: 22px;
@@ -55,7 +55,7 @@ header h2 {
 
 
 h1, h2 {
-  color: white;
+  color: black;
   font-family: 'Inconsolata', monospace;
 }
 
@@ -64,7 +64,7 @@ h2 {font-size: 30 px}
 
 p, li {
   font-family: 'Inconsolata', monospace;
-  color: white;
+  color: black;
 	font-size: 18px;
   font-weight: 400;
     line-height: 26px;
