@@ -15,13 +15,13 @@ body{
 header {
   height: 130px;
   background-color: black;
-  background-image:url(images/fusionq.jpg);
+  background-image:url(images/seamlesscircles.jpg);
 }
 
 footer {
   height: 80px;
   background-color: black;
-  background-image:url(images/fusionq.jpg);
+  background-image:url(images/seamlesscircles.jpg);
 }
 
 .wrapper {
@@ -91,6 +91,7 @@ a {
     height: 10px;
     width: auto;
 }
+
 
 
 
